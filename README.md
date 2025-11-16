@@ -2,6 +2,8 @@
 
 A Power BI Dashboard for the DataViz 2025 Challenge, organised by Macquarie University.
 
+You can view the dashboard [here](https://app.powerbi.com/view?r=eyJrIjoiZmU1OTViMjUtOWRhMy00NWQ2LWE1YzAtYjk1ZDFmNjcxNTJiIiwidCI6IjgyYzUxNGMxLWE3MTctNDA4Ny1iZTA2LWQ0MGQyMDcwYWQ1MiJ9) 😊.
+
 ## 👋 About the Project
 
 This dashboard was created as part of a group entry inspired by the UN Datathon theme: Energy Access & Affordability (SDG 7).
