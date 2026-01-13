@@ -10,7 +10,7 @@ A little preview of the dashboard 😊
 
 This dashboard was created as part of a group entry inspired by the UN Datathon theme: Energy Access & Affordability (SDG 7).
 
-While our team aligned on the overall structure, I independently designed and developed the full Electricity Access page from the initial concept and page layout to the data modelling, visuals, and insights.
+I independently designed and developed the full Electricity Access page from the initial concept and page layout to the data modelling, visuals, and insights.
 
 ## 🔎 What This Page Highlights
 
