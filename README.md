@@ -2,7 +2,9 @@
 
 A Power BI Dashboard for the DataViz 2025 Challenge, organised by Macquarie University.
 
-You can view the dashboard [here](https://app.powerbi.com/view?r=eyJrIjoiZmU1OTViMjUtOWRhMy00NWQ2LWE1YzAtYjk1ZDFmNjcxNTJiIiwidCI6IjgyYzUxNGMxLWE3MTctNDA4Ny1iZTA2LWQ0MGQyMDcwYWQ1MiJ9) 😊.
+A little preview of the dashboard 😊
+
+![Global Electricity Access Trends](Electricity%20Access%20-%20Dashboard%20Preview.png)
 
 ## 👋 About the Project
 
